@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phicks22
 - 👀 I’m interested in deep learning in bioinformatics
 - 🌱 I’m currently learning cascading residual networks (CARNs)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Hi-C resolution enhancement.
 - 📫 How to reach me: parker.hicks@eagles.cui.edu
 
 <!---
