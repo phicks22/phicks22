@@ -1,4 +1,5 @@
-[![Parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=phicks22)](https://github.com/phicks/github-readme-stats)
+![Parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=phicks22&show_icons=true&theme=radical)
+
 
 <!---
 phicks22/phicks22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
