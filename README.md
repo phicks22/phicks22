@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @phicks22
-- 👀 I’m interested in deep learning in bioinformatics
-- 🌱 I’m currently learning cascading residual networks (CARNs)
-- 💞️ I’m looking to collaborate on Hi-C resolution enhancement.
-- 📫 How to reach me: parker.hicks@eagles.cui.edu
+[![Parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=phicks22)](https://github.com/phicks/github-readme-stats)
 
 <!---
 phicks22/phicks22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
