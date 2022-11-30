@@ -6,7 +6,7 @@
 <!-- [![Parker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phicks22)](https://github.com/phicks22/github-readme-stats)
  -->
  <br>
- 
+
  ## Look at my languages.
 
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 <br>
 
-### Remember: Don't stop running from your problems!
+## Remember: Don't stop running from your problems!
 <img src="https://media.giphy.com/media/SCgkb5jeyfFurduM0W/giphy.gif">
 
 <!---
