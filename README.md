@@ -2,6 +2,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phicks22&layout=compact&theme=radical)](https://github.com/phicks22/github-readme-stats)
 <!-- [![Parker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phicks22)](https://github.com/phicks22/github-readme-stats)
  -->
+ 
+ ### - Languages and Tools...
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 
 <!---
 phicks22/phicks22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
