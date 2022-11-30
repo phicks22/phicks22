@@ -9,8 +9,8 @@
 
 <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="imgs/python.svg" height=40 width=40 alt="python" style="vertical-align:top; margin:4px">
-  <img src="imgs/julia.svg" alt="julia" height=35px  width=100px style="vertical-align:top margin:4px">
+  <img src="imgs/python.svg" background="black" height=40 width=40 alt="python" style="vertical-align:top; margin:4px">
+  <img src="imgs/julia.svg" alt="julia" height=40px  width=100px style="vertical-align:top margin:4px">
 </p>
 
 <!---
