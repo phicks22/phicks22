@@ -16,8 +16,7 @@
 </p>
 <br>
 
-## Remember: Don't stop running from your problems!
-<img src="https://media.giphy.com/media/SCgkb5jeyfFurduM0W/giphy.gif">
+<img src="https://media3.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47j4d1nnhlr0c9ukngcrwxbkmt1go9nzxai4xi9805&rid=giphy.gif&ct=g">
 
 <!---
 phicks22/phicks22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
